@@ -2,7 +2,7 @@
 Welcome to Cindy's Creative Corner!
 
 A place for creativity, inspiration, photography, flowers, family memories, and fun.
-## 🌻 What You'll Find Here
+###🌻 What You'll Find Here
 
 - 🌻 Sunflower creations
 - 📸 Colorado photography
